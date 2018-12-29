@@ -1,0 +1,299 @@
+.rollimage::before {
+    background: #f4b251
+}
+
+.cours .pageIntro .primary {
+    background-color: #538fcf
+}
+
+.cours .pageIntro .secondary {
+    background-color: #f4b251
+}
+
+.cours .pageIntro .hand {
+    background-color: #006ba2;
+    background-image: url('../../../The_Elements/Images/Icons/Loaders/hand_bounce_blue.gif')
+}
+
+.cours .button .primary {
+    background-color: #0b6ca0
+}
+
+.cours .button .secondary {
+    background-color: #f4b251
+}
+
+.cours header .logo:before {
+    background-image: url('../img/cours/logoIcon.png')
+}
+
+.cours header .logo:after {
+    background-image: url('../img/cours/logoText.png')
+}
+
+.cours section.intro .bg {
+    background: url('../../../The_Elements/Images/Landing_Page/About/intro.jpg') no-repeat center;
+    background-size: cover
+}
+
+.cours section.intro .text {
+    color: #f4b251;
+    margin-top: -60px
+}
+
+.cours section.intro .scrolldown:after {
+    background-image: url('../../../The_Elements/Images/Landing_Page/Tweaks/scroller.gif')
+}
+
+.cours section.presentation {
+    background-image: url('../../../The_Elements/Images/Landing_Page/Tweaks/bg_presentation.jpg')
+}
+
+.cours section.presentation span {
+    background: #0b6ca0
+}
+
+.cours section.transition .content {
+    background-image: url('../../../The_Elements/Images/The_Ensemble/Explore/EGuitar.jpg')
+}
+
+.cours section.formules {
+    background: #fff;
+    font-family: "Zeo";
+    color: #888
+}
+
+.cours section.formules .contain {
+    width: 780px;
+    display: inline-block
+}
+
+.cours section.formules h2 {
+    color: #f4b251;
+    margin-bottom: 20px
+}
+
+.cours section.formules h3 {
+    font-size: 28px;
+    font-family: "Manga_Regular";
+    margin-bottom: 20px;
+    color: #f4b251;
+    text-align: left;
+    text-transform: uppercase
+}
+
+.cours section.formules h4 {
+    font-size: 24px;
+    font-family: "Manga_Regular";
+    margin-bottom: 10px;
+    color: #1572a3
+}
+
+.cours section.formules p {
+    text-align: justify;
+    font-size: 14px;
+    line-height: 18px;
+    margin-bottom: 10px
+}
+
+.cours section.formules p:last-of-type {
+    margin-bottom: 0
+}
+
+.cours section.formules a {
+    font-family: "Manga_Regular";
+    color: #0b6ca0;
+    text-decoration: underline;
+    text-transform: uppercase
+}
+
+.cours section.formules .blue {
+    color: #1572a3
+}
+
+.cours section.formules .paragraphintro {
+    width: 100%;
+    display: inline-block
+}
+
+.cours section.formules .paragraphintro h3 {
+    color: #1572a3;
+    text-align: center
+}
+
+.cours section.formules .line .text h4 {
+    text-align: justify;
+    color: #1572a3;
+    font-family: "Manga_Regular";
+    font-size: 18px;
+    display: block;
+    margin-bottom: 40px
+}
+
+.cours section.formules h4::before {
+    content: "/ ";
+    color: #f4b251
+}
+
+.cours section.formules .smallbaseline.text h4 {
+    margin-bottom: 10px
+}
+
+.cours section.formules .line {
+    width: 100%;
+    display: inline-block;
+    margin-top: 80px;
+    position: relative
+}
+
+.cours section.formules .line.line60 {
+    margin-top: 60px
+}
+
+.cours section.formules .line .img {
+    width: 460px;
+    float: left
+}
+
+.cours section.formules .line .text {
+    width: 280px;
+    height: 100%;
+    position: absolute;
+    top: 0
+}
+
+.cours section.formules .line .text p {
+    font-size: 12px
+}
+
+.cours section.formules .line:nth-child(odd) .img {
+    float: right
+}
+
+.cours section.formules .line:nth-child(odd) .text {
+    left: 0
+}
+
+.cours section.formules .line:nth-child(even) .text {
+    right: 0
+}
+
+.cours section.formules .btnprice {
+    width: 100%;
+    border: 2px solid #f4b251;
+    padding: 17px;
+    font-family: "Manga_Regular";
+    font-size: 22px;
+    color: #0b6ca0;
+    margin-top: 20px
+}
+
+.cours section.formules .btnprice span {
+    color: #f4b251
+}
+
+.cours section.formules h3.blue {
+    color: #09c0b8;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 80px
+}
+
+.cours section.formules h3 span {
+    font-size: 18px
+}
+
+.cours section.formules .button.btnsummer {
+    width: auto;
+    padding: 0 40px;
+    font-size: 12px;
+    background: #0b6ca0;
+    color: #fff;
+    border-color: #f4b251;
+    float: right
+}
+
+.cours section.formules .button.left {
+    float: left
+}
+
+@media screen and (min-width:1200px) {
+    .cours section.formules h2 {
+        margin-bottom: 40px
+    }
+    .cours section.formules h3 {
+        font-size: 36px;
+        margin-bottom: 40px
+    }
+    .cours section.formules .contain {
+        width: 1120px
+    }
+    .cours section.formules .paragraphintro {
+        width: 800px
+    }
+    .cours section.formules .line .img {
+        width: 720px
+    }
+    .cours section.formules p {
+        margin-bottom: 30px;
+        line-height: 22px
+    }
+    .cours section.formules .line .text {
+        width: 320px
+    }
+    .cours section.formules .baseline {
+        font-size: 24px
+    }
+    .cours section.formules .line .text p {
+        font-size: 13px
+    }
+    .cours section.formules .btnprice {
+        padding: 24px;
+        margin-top: 20px
+    }
+}
+
+.cours section.transition2 .content {
+    background-image: url('../../../The_Elements/Images/Landing_Page/About/Spinnin_TV.png')
+}
+
+.cours section.action {
+    background: url('../../../The_Elements/Images/Landing_Page/About/bg_actions.jpg') center
+}
+
+.cours section.action h2 {
+    color: #fff
+}
+
+.cours section.action>.button {
+    color: #0c6da0
+}
+
+.cours section.action .button .primary {
+    background-color: #fff
+}
+
+.cours section.action .button .secondary {
+    background-color: #f4b251
+}
+
+.cours section.action .button:hover .buttonText {
+    color: #FFF
+}
+
+.cours section.action .arrow {
+    background-color: #f4b251
+}
+
+.cours section.action .albums .album .text .title {
+    color: #fff
+}
+
+.cours section.action .albums .album .text .baseline {
+    color: #f4b251
+}
+
+.cours section.action .albums .album .hover:before {
+    background: rgba(244, 178, 81, 0.6);
+    border: 6px solid #f4b251
+}
