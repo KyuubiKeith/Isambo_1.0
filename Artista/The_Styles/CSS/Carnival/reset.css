@@ -1,0 +1,292 @@
+@import url(http://fonts.googleapis.com/earlyaccess/notosansjapanese.css);
+* {
+    border: 0;
+    margin: 0;
+    outline: 0;
+    padding: 0;
+    -ms-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    box-sizing: border-box;
+    font: inherit;
+    font-family: inherit;
+    font-size: 100%;
+    font-style: inherit;
+    font-weight: inherit;
+    text-decoration: none;
+    vertical-align: baseline;
+    -webkit-appearance: none
+}
+
+::-moz-selection,
+::selection {
+    background: #c99a00;
+    color: #0d223f
+}
+
+* {
+    -webkit-tap-highlight-color: transparent
+}
+
+.sp a,
+.sp .trgger-wrap,
+.sp .btn_outline_film,
+.sp .btn_close,
+.sp .artists_wrap li .thumb_img {
+    -webkit-tap-highlight-color: rgba(13, 34, 63, 0.3)
+}
+
+.sp .menu-trigger {
+    -webkit-tap-highlight-color: rgba(13, 34, 63, 0)
+}
+
+html {
+    font-size: 62.5%;
+    width: 100%;
+    height: 100%
+}
+
+body {
+    font-size: 14px;
+    font-size: 1.4rem;
+    line-height: 1;
+    position: relative;
+    text-align: center;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -o-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+    font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    width: 100%;
+    height: 100%;
+    position: absolute
+}
+
+body>img,
+body>iframe {
+    position: absolute;
+    width: 0;
+    height: 0
+}
+
+.sp body {
+    -webkit-user-select: none;
+    -webkit-touch-callout: none
+}
+
+a {
+    color: #fdd319
+}
+
+html,
+body {
+    margin: 0;
+    padding: 0
+}
+
+article,
+aside,
+dialog,
+figure,
+footer,
+header,
+main,
+menu,
+nav,
+section {
+    display: block
+}
+
+audio,
+canvas,
+video {
+    display: inline-block
+}
+
+ol,
+ul {
+    list-style: none
+}
+
+blockquote,
+q {
+    quotes: none
+}
+
+blockquote:before,
+blockquote:after {
+    content: '';
+    content: none
+}
+
+q:before,
+q:after {
+    content: '';
+    content: none
+}
+
+input,
+select {
+    vertical-align: middle
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    empty-cells: show
+}
+
+body,
+div,
+dl,
+dt,
+dd,
+ul,
+ol,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+pre,
+form,
+fieldset,
+input,
+textarea,
+p,
+blockquote,
+th,
+td {
+    margin: 0;
+    padding: 0
+}
+
+table {
+    margin: 0;
+    padding: 0;
+    border-collapse: collapse;
+    border-spacing: 0;
+    font-size: 100%
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-size: 100%;
+    font-weight: normal
+}
+
+fieldset,
+img {
+    border: 0
+}
+
+address,
+caption,
+cite,
+code,
+dfn,
+th,
+var {
+    font-style: normal;
+    font-weight: normal
+}
+
+ul li,
+ol li {
+    list-style: none
+}
+
+caption,
+th {
+    text-align: left
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-size: 100%;
+    font-weight: normal
+}
+
+q:before,
+q:after {
+    content: ''
+}
+
+abbr,
+acronym,
+a img {
+    border: 0
+}
+
+img {
+    vertical-align: bottom
+}
+
+.clfix {
+    display: inline-block
+}
+
+.clfix:after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden
+}
+
+* html .clfix {
+    height: 1%
+}
+
+.clfix {
+    display: block
+}
+
+.link_fff {
+    color: #fff
+}
+
+hr+br.space,
+body+br.space,
+div+br.space,
+dl+br.space,
+dt+br.space,
+dd+br.space,
+ul+br.space,
+ol+br.space,
+li+br.space,
+h1+br.space,
+h2+br.space,
+h3+br.space,
+h4+br.space,
+h5+br.space,
+h6+br.space,
+pre+br.space,
+code+br.space,
+form+br.space,
+fieldset+br.space,
+legend+br.space,
+input+br.space,
+button+br.space,
+textarea+br.space,
+blockquote+br.space,
+table br.space,
+th+br.space,
+tbody+br.space,
+thead+br.space,
+tfoot+br.space,
+tr+br.space,
+td+br.space {
+    display: none
+}
