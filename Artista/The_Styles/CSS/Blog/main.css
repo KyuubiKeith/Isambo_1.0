@@ -1588,7 +1588,7 @@ h1 a {
   overflow: hidden; }
 
 #section01 .slide1 .bg {
-  background-image: url(../image/top/top-bg5.jpg);
+  background-image: url(../../../The_Elements/Images/Custom/sunset.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1605,7 +1605,7 @@ h1 a {
 
 #section01 .slide2 .bg,
 #section01 .slide3 .bg {
-  background-image: url(../Artista/The_Elements/Images/Custom/IMG-20181230-WA0006.jpg);
+  background-image: url(../../../The_Elements/Images/Custom/IMG-20181231-WA0036.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1613,7 +1613,7 @@ h1 a {
   height: 100vh; }
 
 #section01 .slide6 .bg {
-  background-image: url(../image/top/top-bg6.jpg);
+  background-image: url(../../../The_Elements/Images/Custom/IMG-20181231-WA0051.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1621,7 +1621,7 @@ h1 a {
   height: 100vh; }
 
 #section01 .slide7 .bg {
-  background-image: url(../Artista/The_Elements/Images/Custom/IMG-20181230-WA0006.jpg);
+  background-image: url(../../../The_Elements/Images/Custom/IMG-20181229-WA0024.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1629,7 +1629,7 @@ h1 a {
   height: 100vh; }
 
 #section01 .slide8 .bg {
-  background-image: url(../Artista/The_Elements/Images/Custom/sunset.jpg);
+  background-image: url(../../../The_Elements/Images/Custom/IMG-20181229-WA0014.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1637,7 +1637,7 @@ h1 a {
   height: 100vh; }
 
 #section01 .slide3 .bg {
-  background-image: url(../image/top/top-bg2.jpg);
+  background-image: url(../../../The_Elements/Images/Custom/IMG-20181229-WA0028.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1734,7 +1734,7 @@ a.scroll-down {
   height: 100%; }
 
 .pickup01 .left-img:after {
-  background-image: url(../image/top/pickup04.jpg);
+  background-image: url(../../../The_Elements/Images/Custom/IMG-20181231-WA0034.jpg);
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -1752,7 +1752,7 @@ a.scroll-down {
 
 .pickup01 .right-cont {
   float: left;
-  background-image: url(../image/top/pickup-bg.png);
+  background-image: url(../../../The_Elements/Images/Common/pickup-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   width: 30%;
@@ -1953,7 +1953,7 @@ img.pick-arrow {
   position: relative; }
 
 .pickupLinkWrap01:after {
-  background-image: url(../image/top/pickup01.jpg);
+  background-image: url(../../../The_Elements/Images/Custom/IMG-20181230-WA0006.jpg);
   background-position: top center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2189,7 +2189,7 @@ p.copyright a {
   overflow: hidden; }
 
 .venues-bg:after {
-  background-image: url(../image/top/venues-bg.jpg);
+  background-image: url(../../../The_Elements/Images/Custom/IMG-20181229-WA0014.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -4393,17 +4393,17 @@ ul.shop-list li img {
 
 .l-thumb_06_til:before {
   content: "";
-  background: url("../image/tis/thumb_06.jpg") no-repeat center center;
+  background: url("../../../The_Elements/Images/Icons/GIFs/timer.gif") no-repeat center center;
   background-size: cover; }
 
 .l-thumb_07_til:before {
   content: "";
-  background: url("../image/tis/thumb_07.jpg") no-repeat center center;
+  background: url("../../../The_Elements/Images/Custom/IMG-20181231-WA0063.jpg") no-repeat center center;
   background-size: cover; }
 
 .l-thumb_08_til:before {
   content: "";
-  background: url("../image/tis/thumb_08.jpg") no-repeat center center;
+  background: url("../../../The_Elements/Images/Custom/IMG-20181231-WA0055.jpg") no-repeat center center;
   background-size: cover; }
 
 .l-des_til {
@@ -6929,7 +6929,7 @@ body.page-corona-winter .detail-logo img {
   margin-bottom: 20px; }
 
 .pickupLinkWrap02:after {
-  background-image: url(../image/top/pickup06.jpg); }
+  background-image: url(../../../The_Elements/Images/Custom/IMG-20181229-WA0033.jpg); }
 
 .hover1::after {
   bottom: auto;
